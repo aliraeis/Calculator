@@ -8,3 +8,6 @@ Here are some key aspects of the operations:
 Here are some key points about the code:
 1. num1 is empty until an arithmic opertation has been given.
 2. num2 unlike num1 will immediately get the value on the screen. This has been done so that once num1 is set num2 is always ready to be calculated. 
+
+
+issuing this command can make this calculator an environment command sudo cp ./calc.sh /usr/bin/calc
